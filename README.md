@@ -44,14 +44,20 @@ Data visualization tools (e.g., matplotlib, Seaborn)
 
 # DATA SCIENCE:
 ## Project 1:
-Automating Data Scrapers and Analytical Processes using Apache Airflow.
-Tools, Frameworks, and Technologies: Apache Airflow, Python, Pandas, Numpy.
+Automating Data Scrapers and Analytical Processes using Apache Airflow. </br>
+### Tools, Frameworks, and Technologies: 
+(i). Apache Airflow
+(ii). Python
+(iii). Pandas, Numpy other libraries
+### Objective:
 Scrap house listing data from buyrentkenya.com or any other website of your choice and automate your scripts and analytical processes using Apache Airflow or any other workflow orchestration tool. This project focuses on workflow automation and scheduling.
 
 ## Project 2:
 Build a Kenya and East Africa Agricultural Data Portal to provided necessary information to advise the farmers and investors interested in Farming and Agribiz in Kenya.
-Tools, Frameworks, and Technologies: Python, Django, Flask, Pandas, Numpy, Data Visualization libraries.
-Objective: Develop a data portal for agricultural data in Kenya and East Africa. This involves collecting, organizing, and presenting agricultural data for analysis. (edited)
+### Tools, Frameworks, and Technologies:
+Python, Django, Flask, Pandas, Numpy, Data Visualization libraries.
+### Objective:
+Develop a data portal for agricultural data in Kenya and East Africa. This involves collecting, organizing, and presenting agricultural data for analysis. (edited)
 
 ## 3. Nairobi Metropolitan House Price Prediction with Python.
 Build a machine learning project to predict the house prices for different houses, plots, and land in Nairobi.
