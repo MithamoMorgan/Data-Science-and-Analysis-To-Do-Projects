@@ -5,26 +5,36 @@
 Download a movie dataset from Kaggle or retrieve it using the TMDb API.
 Explore various aspects such as movie genres, ratings, director popularity, and release year trends.
 Create dashboards that visualize these trends and optionally recommend movies based on user preferences.
+### Tools:
+(i). Python Libraries: Pandas, Seaborn, Matplotlib </br>
+(ii). Visualization Tool: Tableau, Power Bi, etc
 
 ## 2: E-commerce Data Scraping:
 Scrape data from Amazon, Jumia, or any other e-commerce website to create a list of all products currently offered at a discount and store them in a relational database. 
-Tools, Frameworks, and Technologies: Python, Beautiful Soup, Selenium, Scrapy, Pandas, Numpy.
 
 Perform EDA on the data  that you have stored in the relational database for your choice and even build a UI page where you can list these items using flask, fast api, streamlit, dash, or any other tool of your choice.Automate your data scrapers  using Apache Airflow.
+
+### Tools, Frameworks, and Technologies: 
+(i). Python Libraries: Pandas, Numpy </br>
+(ii). Scraping Tools: Beautiful Soup, Selenium, or Scrapy </br>
+(iii). UI Tools: flask, fast api, streamlit, dash
+(iv). Automation Tools: Apache Airflow
+
  
 ## 3. scrap Upwork, automate the scrapper and receive emails with new job listed.
  
 ## 4. Analyze Kenya YouTube channels using Python and YouTube API
-Create a project to analyze Kenya YouTube channels using Python and YouTube API. With the data you are requesting from the API Analyze YouTube channels in Kenya using Python. This may include video content analysis, subscriber trends, and engagement metrics
+Create a project to analyze Kenya YouTube channels using Python and YouTube API. With the data you are requesting from the API Analyze YouTube channels in Kenya using Python. This may include video content analysis, subscriber trends, and engagement metrics.
 
 Tools, Frameworks, and Technologies: Python, YouTube API, Requests, Pandas, Matplotlib, Seaborn, etc etc. Feel free to use different tools and approach.
 
 ## 5. Crop Yield Analysis in Kenya - With Python.						
 ### Objectives:												
-Identify factors influencing crop yields across various Kenyan regions.				
-Analyze historical data to uncover trends in crop production.					
-Utilize basic statistical methods to explore correlations between crop yields and factors like rainfall patterns, fertilizer application, and soil characteristics.					Tools, Frameworks and Technologies:							
+Identify factors influencing crop yields across various Kenyan regions and analyze historical data to uncover trends in crop production. </br>			
+Utilize basic statistical methods to explore correlations between crop yields and factors like rainfall patterns, fertilizer application, and soil characteristics.	
+### Data Source:							
 Public agricultural data from Kenyan Agricultural & Livestock Research Organization (KALRO) or the Ministry of Agriculture, Livestock, Fisheries and Cooperatives (MoALFC).
+### Tools, Frameworks, and Technologies:
 Data analysis software (e.g., Python with libraries like Pandas, Statsmodels)			
 Data visualization tools (e.g., matplotlib, Seaborn)
 
