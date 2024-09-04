@@ -45,12 +45,12 @@ Data visualization tools (e.g., matplotlib, Seaborn)
 # DATA SCIENCE:
 ## Project 1:
 Automating Data Scrapers and Analytical Processes using Apache Airflow. </br>
+### Objective:
+Scrap house listing data from buyrentkenya.com or any other website of your choice and automate your scripts and analytical processes using Apache Airflow or any other workflow orchestration tool. This project focuses on workflow automation and scheduling.
 ### Tools, Frameworks, and Technologies: 
 (i). Apache Airflow
 (ii). Python
 (iii). Pandas, Numpy other libraries
-### Objective:
-Scrap house listing data from buyrentkenya.com or any other website of your choice and automate your scripts and analytical processes using Apache Airflow or any other workflow orchestration tool. This project focuses on workflow automation and scheduling.
 
 ## Project 2:
 Build a Kenya and East Africa Agricultural Data Portal to provided necessary information to advise the farmers and investors interested in Farming and Agribiz in Kenya.
