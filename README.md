@@ -85,23 +85,23 @@ Bag-of-Words: Count occurrences of words in each review. </br>
 - Encode the sentiment labels (positive/negative) into numerical values (e.g., 0 for negative, 1 for positive).  </br>
 - Split the data into training and testing sets. </br>
 ### Model Training:
-Use libraries like scikit-learn for model training and evaluation.
-Choose a classification model like Naive Bayes, Logistic Regression, or Support Vector Machines (SVM).
-Train the model on the preprocessed training data.
-Evaluate the model's performance on the testing data using metrics like accuracy, precision, recall, and F1 score.
-Model Deployment with Flask:
-Install Flask using pip install Flask.
-Create a Flask application with an endpoint to receive user input (movie review text) and return the predicted sentiment (positive or negative).
-Define functions for data preprocessing (similar to the preprocessing step) and model loading.
-In the endpoint function:
-Receive user input as a string (review text).
-Preprocess the text data.
-Use the loaded model to predict sentiment on the preprocessed data.
-Return the predicted sentiment as a string (e.g., "positive" or "negative").
-Run the Flask application using flask run.
-Testing the API:
-Use tools like Postman or curl to send a POST request with the review text in the request body to the API endpoint and see the predicted sentiment returned as JSON.
-PLEASE NOTE:
+- Use libraries like scikit-learn for model training and evaluation. </br>
+- Choose a classification model like Naive Bayes, Logistic Regression, or Support Vector Machines (SVM). </br>
+- Train the model on the preprocessed training data. </br>
+- Evaluate the model's performance on the testing data using metrics like accuracy, precision, recall, and F1 score. </br>
+### Model Deployment with Flask:
+- Install Flask using pip install Flask. </br>
+- Create a Flask application with an endpoint to receive user input (movie review text) and return the predicted sentiment (positive or negative). </br>
+- Define functions for data preprocessing (similar to the preprocessing step) and model loading. </br>
+### In the endpoint function:
+- Receive user input as a string (review text). </br>
+- Preprocess the text data. </br>
+- Use the loaded model to predict sentiment on the preprocessed data. </br>
+- Return the predicted sentiment as a string (e.g., "positive" or "negative"). </br>
+- Run the Flask application using flask run. </br>
+### Testing the API:
+- Use tools like Postman or curl to send a POST request with the review text in the request body to the API endpoint and see the predicted sentiment returned as JSON.
+### PLEASE NOTE:
 This is a basic project. Real-world projects may involve more complex preprocessing techniques and model selection.
 Consider error handling and user input validation in your Flask application.
 For deployment on a server, explore containerization with Docker for a production-ready environment.
