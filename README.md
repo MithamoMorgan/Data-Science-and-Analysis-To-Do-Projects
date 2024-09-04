@@ -68,23 +68,23 @@ Predict house prices in the Nairobi Metropolitan area. This project involves mac
 "On top of this you have to build a chatbot using Open AI APIs that engages users ang gives them all the information they need about housing in Kenya( Fine tuning Open AI gpt Model)." (edited) 
 
 ## 4. Sample Data Science Project with Sentiment Analysis using Kaggle and Flask.
-Build a Data Science project to demonstrate sentiment analysis and classify movie reviews as positive or negative. Use a dataset from Kaggle, train a machine learning model, and deploy a Flask API for sentiment prediction.
-Download the dataset here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
-Data collection:
+- Build a Data Science project to demonstrate sentiment analysis and classify movie reviews as positive or negative. Use a dataset from Kaggle, train a machine learning model, and deploy a Flask API for sentiment prediction. </br>
+- Download the dataset here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
+### Data collection:
 Download the training and testing data (usually in CSV format) provided by the chosen dataset.
-Data Preprocessing:
-Use libraries like pandas and NumPy for data manipulation and cleaning.
-Load the CSV data into a pandas dataframe.
-Clean the text data (reviews):
-Remove punctuation and stop words.
-Lowercase all text.
-Consider stemming or lemmatization for better word representation.
-Convert the text data into numerical features suitable for machine learning models. Common techniques include:
-Bag-of-Words: Count occurrences of words in each review.
-TF-IDF: Considers both word frequency and document frequency for weighting words.
-Encode the sentiment labels (positive/negative) into numerical values (e.g., 0 for negative, 1 for positive).
-Split the data into training and testing sets.
-Model Training:
+### Data Preprocessing:
+- Use libraries like pandas and NumPy for data manipulation and cleaning. </br>
+- Load the CSV data into a pandas dataframe. </br>
+- Clean the text data (reviews): </br>
+- Remove punctuation and stop words. </br>
+- Lowercase all text. </br>
+- Consider stemming or lemmatization for better word representation. </br>
+- Convert the text data into numerical features suitable for machine learning models. Common techniques include:
+Bag-of-Words: Count occurrences of words in each review. </br>
+- TF-IDF: Considers both word frequency and document frequency for weighting words. </br>
+- Encode the sentiment labels (positive/negative) into numerical values (e.g., 0 for negative, 1 for positive).  </br>
+- Split the data into training and testing sets. </br>
+### Model Training:
 Use libraries like scikit-learn for model training and evaluation.
 Choose a classification model like Naive Bayes, Logistic Regression, or Support Vector Machines (SVM).
 Train the model on the preprocessed training data.
