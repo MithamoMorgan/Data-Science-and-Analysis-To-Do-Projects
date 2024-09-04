@@ -60,9 +60,11 @@ Python, Django, Flask, Pandas, Numpy, Data Visualization libraries.
 Develop a data portal for agricultural data in Kenya and East Africa. This involves collecting, organizing, and presenting agricultural data for analysis. (edited)
 
 ## 3. Nairobi Metropolitan House Price Prediction with Python.
-Build a machine learning project to predict the house prices for different houses, plots, and land in Nairobi.
-Tools, Frameworks, and Technologies: Python, OpenAI APIS, Machine Learning libraries (Scikit-learn, TensorFlow, PyTorch), Pandas, Numpy, Matplotlib, Flask, Fast API, OR Streamlit.
-Objective: Predict house prices in the Nairobi Metropolitan area. This project involves machine learning and data analysis to create a predictive model. You can use data scraped from Project 1 above.
+Build a machine learning project to predict the house prices for different houses, plots, and land in Nairobi. </br>
+### Tools, Frameworks, and Technologies: 
+Python, OpenAI APIS, Machine Learning libraries (Scikit-learn, TensorFlow, PyTorch), Pandas, Numpy, Matplotlib, Flask, Fast API, OR Streamlit.
+### Objective:
+Predict house prices in the Nairobi Metropolitan area. This project involves machine learning and data analysis to create a predictive model. You can use data scraped from Project 1 above. </br>
 "On top of this you have to build a chatbot using Open AI APIs that engages users ang gives them all the information they need about housing in Kenya( Fine tuning Open AI gpt Model)." (edited) 
 
 ## 4. Sample Data Science Project with Sentiment Analysis using Kaggle and Flask.
