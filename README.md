@@ -17,7 +17,7 @@ Perform EDA on the data  that you have stored in the relational database for you
 ### Tools, Frameworks, and Technologies: 
 (i). Python Libraries: Pandas, Numpy </br>
 (ii). Scraping Tools: Beautiful Soup, Selenium, or Scrapy </br>
-(iii). UI Tools: flask, fast api, streamlit, dash
+(iii). UI Tools: flask, fast api, streamlit, dash </br>
 (iv). Automation Tools: Apache Airflow
 
  
@@ -26,7 +26,10 @@ Perform EDA on the data  that you have stored in the relational database for you
 ## 4. Analyze Kenya YouTube channels using Python and YouTube API
 Create a project to analyze Kenya YouTube channels using Python and YouTube API. With the data you are requesting from the API Analyze YouTube channels in Kenya using Python. This may include video content analysis, subscriber trends, and engagement metrics.
 
-Tools, Frameworks, and Technologies: Python, YouTube API, Requests, Pandas, Matplotlib, Seaborn, etc etc. Feel free to use different tools and approach.
+### Tools, Frameworks, and Technologies:
+(i). Python Libraries: Pandas, Matplotlib, Seaborn, etc </br>
+(ii). YouTube API </br>
+(iii). Requests
 
 ## 5. Crop Yield Analysis in Kenya - With Python.						
 ### Objectives:												
@@ -35,7 +38,7 @@ Utilize basic statistical methods to explore correlations between crop yields an
 ### Data Source:							
 Public agricultural data from Kenyan Agricultural & Livestock Research Organization (KALRO) or the Ministry of Agriculture, Livestock, Fisheries and Cooperatives (MoALFC).
 ### Tools, Frameworks, and Technologies:
-Data analysis software (e.g., Python with libraries like Pandas, Statsmodels)			
+Data analysis software (e.g., Python with libraries like Pandas, Statsmodels) </br>
 Data visualization tools (e.g., matplotlib, Seaborn)
 
 
